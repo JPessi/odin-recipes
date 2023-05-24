@@ -1,0 +1,15 @@
+body {
+  background-color: #537188;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #cbb279;
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.center-list {
+  display: inline-block;
+  text-align: left;
+}
