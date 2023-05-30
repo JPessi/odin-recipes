@@ -10,6 +10,39 @@ h1 {
 }
 
 .center-list {
-  display: inline-block;
   text-align: left;
+  font-size: 15px;
+}
+
+.description,
+.steps {
+  margin: 0 auto;
+}
+
+.steps {
+  width: 400px;
+}
+
+.description {
+  width: 600px;
+}
+
+.enchilada {
+  width: 200px;
+}
+
+li {
+  margin: 5px;
+}
+
+.ingredients,
+.steps {
+  display: inline-block;
+}
+
+.content {
+  border: 1px solid black;
+  width: fit-content;
+  margin: 30px auto;
+  padding: 50px 200px 100px;
 }
